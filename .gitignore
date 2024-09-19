@@ -9,6 +9,7 @@
 *.egg
 *.egg-info
 dist
+output_data
 build
 eggs
 parts
@@ -48,4 +49,3 @@ Eclipse IDE
 .project
 .pydevproject
 .settings/
-
